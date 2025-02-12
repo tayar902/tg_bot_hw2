@@ -8,9 +8,11 @@ attrs==25.1.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
 frozenlist==1.5.0
+gunicorn==23.0.0
 idna==3.10
 magic-filter==1.0.12
 multidict==6.1.0
+packaging==24.2
 propcache==0.2.1
 pydantic==2.10.6
 pydantic_core==2.27.2
